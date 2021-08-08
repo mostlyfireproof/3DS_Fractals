@@ -1,3 +1,7 @@
 /.idea
-main.bak
 /romfs
+/build
+main.bak
+*.3dsx
+*.elf
+*.smdh
